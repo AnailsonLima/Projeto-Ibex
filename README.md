@@ -22,4 +22,5 @@
 ---
 
 ## ⚙️ Como Executar o Projeto
-- python -m ibex.main
+- python main.py
+
